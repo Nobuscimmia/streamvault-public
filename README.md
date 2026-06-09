@@ -6,6 +6,8 @@ StreamVault automatically records your favorite models on Chaturbate, Stripchat,
 
 > 🇮🇹 [Leggi in Italiano](#-streamvault-italiano)
 
+![StreamVault](https://raw.githubusercontent.com/Nobuscimmia/streamvault-public/main/streamvault_hero.jpg)
+
 ---
 
 ## ✨ Features
@@ -19,6 +21,8 @@ StreamVault automatically records your favorite models on Chaturbate, Stripchat,
 - **Auto Backup** — SFTP upload, CSV export, PDF report
 - **Clipboard Monitor** — detects cam URLs you copy and offers to record instantly
 
+![StreamVault Features](https://raw.githubusercontent.com/Nobuscimmia/streamvault-public/main/streamvault_features.jpg)
+
 ---
 
 ## 📥 Download
@@ -30,6 +34,8 @@ Go to [Releases](https://github.com/Nobuscimmia/streamvault-public/releases/late
 ---
 
 ## 💎 Plans
+
+![StreamVault Pricing](https://raw.githubusercontent.com/Nobuscimmia/streamvault-public/main/streamvault_pricing.jpg)
 
 | | Free | Pro | Founder |
 |---|---|---|---|
@@ -105,6 +111,8 @@ StreamVault registra automaticamente le tue modelle preferite su Chaturbate, Str
 
 > 🇬🇧 [Read in English](#-streamvault)
 
+![StreamVault](https://raw.githubusercontent.com/Nobuscimmia/streamvault-public/main/streamvault_hero.jpg)
+
 ---
 
 ## ✨ Funzionalità
@@ -118,6 +126,8 @@ StreamVault registra automaticamente le tue modelle preferite su Chaturbate, Str
 - **Backup automatico** — upload SFTP, export CSV, PDF report
 - **Clipboard Monitor** — rileva URL cam copiati e offre di registrare subito
 
+![StreamVault Features](https://raw.githubusercontent.com/Nobuscimmia/streamvault-public/main/streamvault_features.jpg)
+
 ---
 
 ## 📥 Download
@@ -129,6 +139,8 @@ Vai alla sezione [Releases](https://github.com/Nobuscimmia/streamvault-public/re
 ---
 
 ## 💎 Versioni
+
+![StreamVault Pricing](https://raw.githubusercontent.com/Nobuscimmia/streamvault-public/main/streamvault_pricing.jpg)
 
 | | Free | Pro | Founder |
 |---|---|---|---|
